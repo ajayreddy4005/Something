@@ -1,0 +1,14 @@
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\bin\Debug\net6.0\EntityApi.deps.json
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\bin\Debug\net6.0\EntityApi.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\bin\Debug\net6.0\EntityApi.pdb
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.csproj.AssemblyReference.cache
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.AssemblyInfoInputs.cache
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.AssemblyInfo.cs
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.csproj.CoreCompileInputs.cache
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\refint\EntityApi.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.pdb
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\ref\EntityApi.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\bin\Debug\net6.0\EntityApi.runtimeconfig.json
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\EntityApi\obj\Debug\net6.0\EntityApi.genruntimeconfig.cache

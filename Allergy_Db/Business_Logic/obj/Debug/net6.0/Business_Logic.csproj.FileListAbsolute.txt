@@ -1,0 +1,17 @@
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\bin\Debug\net6.0\Business_Logic.deps.json
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\bin\Debug\net6.0\Business_Logic.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\bin\Debug\net6.0\Business_Logic.pdb
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\bin\Debug\net6.0\EntityApi.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\bin\Debug\net6.0\Models.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\bin\Debug\net6.0\EntityApi.pdb
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\bin\Debug\net6.0\Models.pdb
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.csproj.AssemblyReference.cache
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.AssemblyInfoInputs.cache
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.AssemblyInfo.cs
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.csproj.CoreCompileInputs.cache
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.csproj.CopyComplete
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\refint\Business_Logic.dll
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\Business_Logic.pdb
+C:\Users\G.AJAY KUMAR REDDY\Training_04\Allergy_Db\Business_Logic\obj\Debug\net6.0\ref\Business_Logic.dll
